@@ -17,7 +17,7 @@ const Navbar = () => {
         <li><Link to="/skills" onClick={() => setIsOpen(false)}>Compétences</Link></li>
         <li><Link to="/projects" onClick={() => setIsOpen(false)}>Projets</Link></li>
         <li><Link to="/contact" onClick={() => setIsOpen(false)}>Contact</Link></li>
-        <a href="/CV-Dipegnan.pdf" download className="cv-btn" onClick={() => setIsOpen(false)}>📄 CV</a>
+        <a href="/portfolio_marius/CV_Marius_2025.pdf" download className="cv-btn" onClick={() => setIsOpen(false)}>📄Mon CV</a>
       </div>
 
       <div className="burger" onClick={toggleMenu}>
