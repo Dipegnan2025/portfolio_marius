@@ -11,7 +11,7 @@ const Home = () => {
             <h1>Bienvenue</h1>
             <h2>Je suis <span className="highlight">TOURE DIPEGNAN MARIUS </span></h2>
             <p className="hero-subtitle">
-              Administrateur Reseau et Système
+              Technicien,IT SUPPORT 
               je déploie et maintiens
               des infrastructures modernes,sécurisées.
             </p>
